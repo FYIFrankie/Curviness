@@ -22,7 +22,7 @@ This should run in python 2.7 and 3.3.
 $ python curviness.py path_to_points_file
 
 
-* Edits
+# Internal Edits
 
 
 Lines 42-43: Calculate the distance of each line segment and store it
