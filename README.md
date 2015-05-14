@@ -12,7 +12,7 @@ Path points are inputted in a file in the form:
 .  
 {"x":"25", "y":"23", "t":"25"}]  
 
-Pass the filename to the path points file as the first argument on the command line. If no argument is given, the test_points file will be used.
+Pass the filename to the path points file as the first argument on the command line. If no argument is given, the points.json file will be used.
 
 
 This should run in python 2.7 and 3.3.
