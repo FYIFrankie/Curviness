@@ -3,18 +3,13 @@
 Calculates the curviness number of an animals path given it's location over time. Assuming the animal starts at the first point and ends at the last point. If the first and last point are the same, then it assumes the animal didn't move along the path.
 
 Path points are inputted in a file in the form:
+
 [{"x":"1", "y":"5", "t":"0"},
-
 {"x":"1", "y":"9", "t":"5"},
-
 {"x":"1", "y":"21", "t":"10"},
-
 .
-
 .
-
 .
-
 {"x":"25", "y":"23", "t":"25"}]
 
 Pass the filename to the path points file as the first argument on the command line. If no argument is given, the test_points file will be used.
