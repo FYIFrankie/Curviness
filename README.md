@@ -26,10 +26,10 @@ $ python curviness.py path_to_points_file
 
 
 Lines 42-43: Calculate the distance of each line segment and store it
-45-46: Added variables for half the distance of the path
-48-55: For loop to figure out what line segment the half way point lies in
-57-58: Calculate the x, y coordinates of the midpoint of the path 
-59-61: Breakup list into first half points and second half points
-69-70: Added a function to calculate distance between two points
-72-78: Added a function to calculate curviness number
+45-46: Added variables for half the distance of the path  
+48-55: For loop to figure out what line segment the half way point lies in  
+57-58: Calculate the x, y coordinates of the midpoint of the path  
+59-61: Breakup list into first half points and second half points  
+69-70: Added a function to calculate distance between two points  
+72-78: Added a function to calculate curviness number  
 
